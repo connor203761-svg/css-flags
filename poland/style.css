@@ -7,6 +7,7 @@ a {
     width:100%;
     text-align:center;
 }
+
 .flag {
   width:900px;
   height:600px;
@@ -19,11 +20,10 @@ a {
     height:50%;
 }
 
-
-
 .white {
     background:#FFFFFF;
 }
+
 .red {
     background:#D4213D;
 }
